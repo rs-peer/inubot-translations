@@ -132,9 +132,9 @@ message.warning=경고
 
 message.import_old=구버전 가져오기
 
-message.world_preference_profiles=?? ?? ???
-message.saved_world_preference_profiles=??? ?? ?? ???
-message.world_preferences=?? ?? ??
-message.no_profile_selected=??? ??? ??
-message.profile_name=??? ??
-message.allowed_world_locations=??? ?? ??
+message.world_preference_profiles=월드 선호 프로필
+message.saved_world_preference_profiles=저장된 월드 선호 프로필
+message.world_preferences=월드 선호 설정
+message.no_profile_selected=선택된 프로필 없음
+message.profile_name=프로필 이름
+message.allowed_world_locations=허용된 월드 지역
