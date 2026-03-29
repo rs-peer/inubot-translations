@@ -132,9 +132,9 @@ message.warning=警告
 
 message.import_old=导入旧数据
 
-message.world_preference_profiles=??????
-message.saved_world_preference_profiles=??????????
-message.world_preferences=??????
-message.no_profile_selected=?????
-message.profile_name=????
-message.allowed_world_locations=???????
+message.world_preference_profiles=世界偏好配置
+message.saved_world_preference_profiles=已保存的世界偏好配置
+message.world_preferences=世界偏好
+message.no_profile_selected=未选择配置文件
+message.profile_name=配置名称
+message.allowed_world_locations=允许的世界地区
